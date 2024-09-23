@@ -1,5 +1,10 @@
-## Hi there 👋
+## Olá, tudo bom? 👋
 
+Meu nome é João Vytor Siebra, tenho 26 anos, Pernambucano e sou aspirante na área de Engenharia de Dados, estudando atualmente DE no Santander Coders e DIO, além de cursar Análise e Desenvolvimento de Sistemas. 
+
+Estou aprendendo python e pretendo desenvolver projetos desafiadores e relevantes para sociedade.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vytorsiebra&theme=algolia)
 <!--
 **vytorsiebra/vytorsiebra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Vytor Siebra
