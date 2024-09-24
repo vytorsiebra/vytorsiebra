@@ -4,7 +4,7 @@ Meu nome é João Vytor Siebra, tenho 26 anos, Pernambucano e sou aspirante na �
 
 Estou aprendendo python e pretendo desenvolver projetos desafiadores e relevantes para sociedade.
 
-<img loading="lazy" src="https://icons8.com.br/illustrations/illustration/3d-fluency-python" width="40" height="40"/>
+<img loading="lazy" src="https://drive.google.com/file/d/19Es7WCe0CL0xJRIIKMvlwyZWV3aFpAyG/view?usp=sharing" width="100" height="100"/>
 
 ![Python](https://drive.google.com/file/d/1hE4ozJlffTv-uL-eqEx_FssTgkZa4kV9/view?usp=sharing)
 
