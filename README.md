@@ -4,9 +4,9 @@ Meu nome é João Vytor Siebra, tenho 26 anos, Pernambucano e sou aspirante na �
 
 Estou aprendendo python e pretendo desenvolver projetos desafiadores e relevantes para sociedade.
 
-<img loading="lazy" src="https://drive.google.com/file/d/19Es7WCe0CL0xJRIIKMvlwyZWV3aFpAyG/view?usp=sharing" width="100" height="100"/>
+![Octocat]()
 
-![Python](https://drive.google.com/file/d/1hE4ozJlffTv-uL-eqEx_FssTgkZa4kV9/view?usp=sharing)
+![Python]()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vytorsiebra&theme=algolia)
 <!--
