@@ -47,17 +47,12 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/joao-vytor-siebra/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="#" title="vytor.siebra">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="mailto:vytor.siebra@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-</div>
+[![LinkedIn logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/joao-vytor-siebra/)
+&nbsp;
+[![Discord logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](#)
+&nbsp;
+[![Gmail logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:vytor.siebra@gmail.com)
+
 
 ###
 
@@ -65,11 +60,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vytorsiebra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  /> <br>
-  <img src="https://streak-stats.demolab.com?user=vytorsiebra&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vytorsiebra&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="130" alt="languages graph"  /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vytorsiebra&radius=16&theme=react&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%A3o%20di%C3%A1ria" height="160" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vytorsiebra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" width="500" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=vytorsiebra&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="500" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vytorsiebra&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="500" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vytorsiebra&radius=16&theme=react&area=true&hide_border=false&order=5&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%A3o%20di%C3%A1ria" width="500" alt="activity-graph graph" />
 </div>
 
 ###
