@@ -43,6 +43,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/vytorsiebra/vytorsiebra/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="left">Contatos:</h2>
 
 ###
