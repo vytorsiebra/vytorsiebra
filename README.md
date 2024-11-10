@@ -51,7 +51,7 @@ Estou aprendendo Python e tenho como objetivo desenvolver projetos desafiadores 
 
 [![LinkedIn logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/joao-vytor-siebra/)
 &nbsp;
-[![#vytorsiebra](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](#)
+[![Discord logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](# "#vytorsiebra")
 &nbsp;
 [![Gmail logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:vytor.siebra@gmail.com)
 
