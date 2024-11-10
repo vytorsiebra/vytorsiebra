@@ -41,11 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/vytorsiebra/vytorsiebra/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="left">Contatos:</h2>
 
