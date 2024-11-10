@@ -43,7 +43,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vytorsiebra/vytorsiebra/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vytorsiebra/vytorsiebra/snake.svg" alt="Snake animation" />
 
 ###
 
