@@ -7,7 +7,9 @@
 
 ###
 
-<p align="left">Meu nome é João Vytor Siebra, tenho 26 anos, Pernambucano e sou aspirante na área de Engenharia de Dados, estudando atualmente DE no Santander Coders e DIO e curso Análise e Desenvolvimento de Sistemas na Faculdade Mauricio de Nassau. 👨🏻‍💻<br><br>Estou aprendendo python e pretendo desenvolver projetos desafiadores e relevantes. 🐍</p>
+<p align="left">Meu nome é João Vytor Siebra, tenho 26 anos, sou pernambucano e aspirante à área de dados. Atualmente, estou estudando Engenharia de Dados no Santander Coders e DIO, além de cursar Análise e Desenvolvimento de Sistemas na Faculdade Maurício de Nassau. 👨🏻‍💻
+<br><br>
+Estou aprendendo Python e tenho como objetivo desenvolver projetos desafiadores e relevantes. 🐍</p>
 
 ###
 
