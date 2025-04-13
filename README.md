@@ -2,11 +2,11 @@
 
 <h1 align="left">Olá! Bem-vindo(a) ao meu GitHub! 👨🏻‍💻</h1> 
 
-
 ###
 
-<p align="left">Meu nome é João Vytor Siebra, tenho 26 anos, sou pernambucano e estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU.🎓
-Tenho paixão por tecnologia, especialmente nas áreas de desenvolvimento backend e engenharia de dados. Atualmente estou focado em aprender Java, Spring Boot e bancos de dados relacionais, com o objetivo de realizar minha transição de carreira para a área de tecnologia.🚀
+<p align="left">Meu nome é João Vytor Siebra, tenho 26 anos, sou pernambucano e estudante de Análise e Desenvolvimento de Sistemas na UNINASSAU.🎓<br>
+Tenho paixão por tecnologia, especialmente nas áreas de desenvolvimento backend e dados.<br>
+Atualmente estou focado em aprender Java, Spring Boot e bancos de dados relacionais, com o objetivo de realizar minha transição de carreira para a área de tecnologia.🚀
 
 Sou curioso, autodidata e determinado a crescer profissionalmente através de projetos práticos e aprendizado constante.👨🏻‍💻</p>
 
@@ -53,9 +53,9 @@ Sou curioso, autodidata e determinado a crescer profissionalmente através de pr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
+<h2 align="left"></h2>
 
 ###
-
 
 <h3 align="left">Contatos:</h3>
 
@@ -73,7 +73,7 @@ Sou curioso, autodidata e determinado a crescer profissionalmente através de pr
   <img src="https://raw.githubusercontent.com/vytorsiebra/vytorsiebra/output/snake.svg" alt="Snake animation" />
 </div>
 
-<h2 align="left">Estatísticas de atividade:</h2>
+<h3 align="left">Estatísticas de atividade:</h3>
 
 ###
 
